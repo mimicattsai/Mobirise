@@ -1,6 +1,6 @@
 @font-face {
-   font-family: 'GenYoGothicTW-Bold';
-   src: url('GenYoGothicTW-Bold/font.ttf');
+   font-family: 'GenRyuMinTW-Heavy';
+   src: url('GenRyuMinTW-Heavy/font.ttf');
 }
 @font-face {
    font-family: 'SoukouMincho';
@@ -9,4 +9,8 @@
 @font-face {
    font-family: 'GenYoMinTW-SemiBold';
    src: url('GenYoMinTW-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoGothicTW-Bold';
+   src: url('GenYoGothicTW-Bold/font.ttf');
 }
