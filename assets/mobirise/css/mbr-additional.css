@@ -14,14 +14,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'GenRyuMinTW-Heavy';
-  font-size: 5rem;
+  font-family: 'GenJyuuGothicL-Bold';
+  font-size: 5.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8rem;
+  font-size: 8.8rem;
 }
 .display-2 {
-  font-family: 'SoukouMincho';
+  font-family: 'GenYoMinTW-SemiBold';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -29,13 +29,13 @@ body {
 }
 .display-4 {
   font-family: 'GenYoGothicTW-Bold';
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.4rem;
 }
 .display-5 {
-  font-family: 'GenYoMinTW-SemiBold';
+  font-family: 'GenJyuuGothic-Light';
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
@@ -55,9 +55,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.4rem;
+    font-size: calc( 2.5749999999999997rem + (5.5 - 2.5749999999999997) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.5749999999999997rem + (5.5 - 2.5749999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -65,9 +65,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.6rem;
@@ -573,8 +573,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -1731,16 +1731,16 @@ body {
   text-align: left;
 }
 .cid-qw6DoriRro P {
-  color: #879a9f;
+  color: #465052;
 }
 .cid-qxtv7rkIrP {
-  background-image: url("../../../assets/images/macbook-laptop-books-desk-wood-notepad-pencil-eraser-892164-1200x805.jpg");
+  background-image: url("../../../assets/images/2a2204d3b1b1e13ceec108191f2e3554-m-1920x1280.jpg");
 }
 .cid-qxtv7rkIrP .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-qxtv7rkIrP H1 {
-  color: #1358c1;
+  color: #0c9e8d;
 }
 .cid-qxtv7rkIrP H3 {
   color: #073b4c;
@@ -1752,7 +1752,7 @@ body {
 .cid-qxtzin8Jjz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/2a2204d3b1b1e13ceec108191f2e3554-m-1920x1280.jpg");
+  background-image: url("../../../assets/images/b122efdd5780428f64d1817835f4fb63-m-1920x1280.jpg");
 }
 .cid-qxtzin8Jjz H1 {
   color: #2a5e58;
