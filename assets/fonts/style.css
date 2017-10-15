@@ -1,16 +1,20 @@
 @font-face {
-   font-family: 'GenJyuuGothicL-Bold';
-   src: url('GenJyuuGothicL-Bold/font.ttf');
+   font-family: 'GenYoMinTW-Bold';
+   src: url('GenYoMinTW-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoGothicTW-Normal';
+   src: url('GenYoGothicTW-Normal/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoMinTW-Light';
+   src: url('GenYoMinTW-Light/font.ttf');
 }
 @font-face {
    font-family: 'GenYoMinTW-SemiBold';
    src: url('GenYoMinTW-SemiBold/font.ttf');
 }
 @font-face {
-   font-family: 'GenJyuuGothic-Light';
-   src: url('GenJyuuGothic-Light/font.ttf');
-}
-@font-face {
-   font-family: 'GenYoGothicTW-Bold';
-   src: url('GenYoGothicTW-Bold/font.ttf');
+   font-family: 'GenRyuMinTW-Medium';
+   src: url('GenRyuMinTW-Medium/font.ttf');
 }
